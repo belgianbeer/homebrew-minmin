@@ -1,2 +1,2 @@
 # homebrew-minmin
-Homebrew's Tap for tzdiff
+Homebrew's personal tap for [tzdiff](https://github.com/belgianbeer/tzdiff).
