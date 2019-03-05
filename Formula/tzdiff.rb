@@ -2,7 +2,7 @@ class Tzdiff < Formula
   desc "Displays Timezone differences with localtime in CLI (shell script)"
   homepage "https://github.com/belgianbeer/tzdiff"
   url "https://github.com/belgianbeer/tzdiff/archive/1.1.tar.gz"
-  sha256 "0f21f4ab7783fc8c0caf5733fed51f4241ce9a4ef4e9c29aabc371336ff2a686"
+  sha256 "3d2f6bfb9aad3843f198e8e4ba074209287f92b5425b753aa7582b85b3bb5103"
 
   def install
     bin.install "tzdiff"
